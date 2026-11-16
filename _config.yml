@@ -1,0 +1,17 @@
+title: Nadia Voskamp
+description: Computational biology, single-cell genomics, regulatory sequence modelling.
+baseurl: ""
+url: ""
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single

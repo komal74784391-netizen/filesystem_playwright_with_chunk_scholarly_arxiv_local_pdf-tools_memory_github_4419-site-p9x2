@@ -1,1 +1,6 @@
-# filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4419-site-p9x2
+# Personal site — Nadia Voskamp
+
+Static Jekyll site for my academic profile. It was bootstrapped from a generic
+academic site template; `_pages/` and `_data/navigation.yml` show the sections the
+template shipped with. Content lives in `_pages/`, navigation in
+`_data/navigation.yml`.
